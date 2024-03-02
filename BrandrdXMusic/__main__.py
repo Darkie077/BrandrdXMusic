@@ -5,11 +5,11 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from RenXMusic import LOGGER, app, userbot
-from RenXMusic.core.call import Hotty
-from RenXMusic.misc import sudo
-from RenXMusic.plugins import ALL_MODULES
-from RenXMusic.utils.database import get_banned_users, get_gbanned
+from BrandrdXMusic import LOGGER, app, userbot
+from BrandrdXMusic.core.call import Hotty
+from BrandrdXMusic.misc import sudo
+from BrandrdXMusic.plugins import ALL_MODULES
+from BrandrdXMusic.utils.database import get_banned_users, get_gbanned
 from config import BANNED_USERS
 
 
